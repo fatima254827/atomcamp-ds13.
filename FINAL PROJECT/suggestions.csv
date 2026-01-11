@@ -1,0 +1,40 @@
+category,age_group,suggestion
+routine,age_0_3,Keep routines flexible while responding to baby cues.
+routine,age_0_3,Focus on feeding and sleep cycles rather than strict schedules.
+routine,age_0_3,Start introducing simple daily patterns for feeding and naps.
+routine,age_4_6,Consistency helps babies feel secure and calm.
+routine,age_7_12,Establish predictable daily routines for meals and sleep.
+routine,age_7_12,Repeat daily activities at similar times each day.
+routine,age_7_12,Structured routines help babies understand expectations.
+routine,age_7_12,"Balance play, meals, and rest throughout the day."
+routine,age_13_24,Toddlers thrive with consistent daily routines.
+crying,age_0_3,"Crying is normal at this age. Check feeding, burping, and provide gentle comfort."
+crying,age_0_3,Try skin-to-skin contact and soft talking to soothe your baby.
+crying,age_4_6,Babies may cry due to growth spurts. Maintain feeding and sleep routines.
+crying,age_4_6,Ensure the baby is not overtired; offer naps regularly.
+crying,age_7_12,Separation anxiety may begin. Reassure your baby with presence and calm voice.
+crying,age_7_12,Teething can cause discomfort; maintain comforting routines.
+crying,age_7_12,Crying may signal frustration. Encourage communication through gestures.
+crying,age_7_12,Stick to predictable routines to reduce emotional stress.
+crying,age_13_24,Toddlers cry to express emotions. Acknowledge feelings calmly.
+crying,age_13_24,Offer choices to help toddlers feel more in control.
+feeding,age_0_3,Feeding on demand is normal. Frequent feeding supports growth.
+feeding,age_0_3,Ensure proper burping after feeds to reduce discomfort.
+feeding,age_4_6,Milk remains the main nutrition source. Solid foods are not yet required.
+feeding,age_4_6,Maintain calm feeding environments to support feeding cues.
+feeding,age_7_12,"Introduce soft puris, mashed vegetables, and fruits once daily."
+feeding,age_7_12,Food refusal is common. Offer small portions and repeat after a few days.
+feeding,age_7_12,Encourage finger foods like soft fruits and well-cooked vegetables.
+feeding,age_7_12,Allow self-feeding to build confidence and interest in food.
+feeding,age_13_24,Picky eating is normal. Offer variety without forcing.
+feeding,age_13_24,Maintain regular meal times and limit distractions during meals.
+sleep,age_0_3,Sleep patterns are irregular. Allow naps every 2–3 hours.
+sleep,age_0_3,Create a calm environment with low light during sleep times.
+sleep,age_4_6,Begin gentle bedtime routines like bathing or soft music.
+sleep,age_4_6,Encourage daytime naps to prevent overtiredness.
+sleep,age_7_12,Maintain consistent bedtime and wake-up times.
+sleep,age_7_12,Night wakings are common; reassure without stimulation.
+sleep,age_13_24,Separation anxiety may affect sleep; use consistent routines.
+sleep,age_13_24,Avoid stimulating activities before bedtime.
+sleep,age_13_24,Toddlers benefit from predictable bedtime rituals.
+sleep,age_13_24,Daytime naps should be age-appropriate and consistent.

@@ -1,0 +1,159 @@
+text,age_group,category,parent_emotion,guidance_label
+"My 2 month baby wakes every hour at night, I cant sleep properly ",age_0_3,sleep,tired,routine_sleep
+I feel very worried because my newborn sleeps whole day and up all night,age_0_3,sleep,worried,routine_sleep
+"My 3 month old wants feed again and again, is this normal?",age_0_3,feeding,anxious,routine_feeding
+"Baby cries a lot in evening time, I have no clue why he is ok otherwise",age_0_3,crying,tired,routine_general
+"I am exhausted, baby has no routine I am trying hard ",age_0_3,routine,tired,routine_general
+My 5 month baby not taking milk properly during day,age_4_6,feeding,worried,routine_feeding
+"Baby sleeps late night and wakes early, I am very tired",age_4_6,sleep,tired,routine_sleep
+I feel anxious because my baby routine changes every week,age_4_6,routine,anxious,routine_general
+Evening crying is incresed a lot ,age_4_6,crying,worried,routine_general
+"Baby distracted during feeds, don’t know why",age_4_6,feeding,worried,routine_feeding
+My 8 month old wakes crying at night and needs rocking,age_7_12,sleep,tired,routine_sleep
+"Baby refuses solids, only wants bottle or my feed ",age_7_12,feeding,worried,routine_feeding
+I feel anxious about my baby daily routine,age_7_12,routine,anxious,routine_general
+"My baby cries when guests come, routine is very distrubed",age_7_12,crying,worried,routine_general
+Nap time is not scheduled at all ,age_7_12,sleep,tired,routine_sleep
+My 14 month toddler sleeps very late and wakes cranky,age_13_24,sleep,tired,routine_sleep
+Toddler eating habits are changing day y day ,age_13_24,feeding,worried,routine_feeding
+I feel stressed managing toddler daily routine,age_13_24,routine,anxious,routine_general
+Toddler cries whenever there is  little change in routine ,age_13_24,crying,worried,routine_general
+My child skips naps and becomes very cranky,age_13_24,sleep,tired,routine_sleep
+My baby is 6 months old and milk alone does not seem enough anymore,age_4_6,feeding, worried,routine_feeding
+My 6 month baby pushes purees out of the mouth and refuses solids,age_4_6,feeding,anxious,routine_feeding
+I have started solids at 6 months but my baby eats only a few spoons,age_4_6,feeding,worried,routine_feeding
+My baby gags when trying mashed food and I feel nervous,age_4_6,feeding,anxious,routine_feeding
+My 6 month old seems interested in food but stops after two bites,age_4_6,feeding,calm,routine_feeding
+I am confused about how many solid meals a 6 month old should have,age_4_6,feeding,worried,routine_feeding
+My baby prefers milk and refuses any solid food,age_4_6,feeding,anxious,routine_feeding
+I worry that my baby is not eating enough solids at 6 months,age_4_6,feeding,worried,routine_feeding
+My baby turns away when I offer pureed vegetables,age_4_6,feeding,tired,routine_feeding
+My baby eats well one day and refuses food the next day,age_4_6,feeding,anxious,routine_feeding
+My 8 month old accepts some foods but refuses new textures,age_7_12,feeding,worried,routine_feeding
+My baby eats fruits but refuses vegetables completely,age_7_12,feeding,anxious,routine_feeding
+My 9 month baby prefers finger foods and refuses spoon feeding,age_7_12,feeding,calm,routine_feeding
+My baby throws food on the floor instead of eating,age_7_12,feeding,tired,routine_feeding
+My baby eats very little and I feel stressed during meal times,age_7_12,feeding,anxious,routine_feeding
+My baby wants the same food every day and refuses variety,age_7_12,feeding,worried,routine_feeding
+My baby eats better when feeding himself than when I feed him,age_7_12,feeding,calm,routine_feeding
+My baby cries during meals and I feel overwhelmed,age_7_12,feeding,tired,routine_feeding
+My baby is very slow during meals and loses interest quickly,age_7_12,feeding,worried,routine_feeding
+My baby eats only when distracted and not otherwise,age_7_12,feeding,anxious,routine_feeding
+My toddler refuses most foods and is becoming a picky eater,age_13_24,feeding,worried,routine_feeding
+My toddler eats only a few favourite foods and rejects everything else,age_13_24,feeding,anxious,routine_feeding
+My child skips meals but asks for snacks often,age_13_24,feeding,tired,routine_feeding
+My toddler refuses to sit at the table during meals,age_13_24,feeding,worried,routine_feeding
+Meal times have become stressful because my toddler refuses food,age_13_24,feeding,anxious,routine_feeding
+My toddler eats very small portions and I worry about routine,age_13_24,feeding,worried,routine_feeding
+My child wants milk instead of meals most of the time,age_13_24,feeding,anxious,routine_feeding
+My toddler eats well some days and very little on others,age_13_24,feeding,calm,routine_feeding
+My child refuses food when tired or overstimulated,age_13_24,feeding,worried,routine_feeding
+I feel stressed managing regular meal times for my toddler,age_13_24,feeding,tired,routine_feeding
+My newborn wakes up every 2 hours and I am very tired,age_0_3,sleep,tired,routine_sleep
+Baby cries for long periods at night and refuses to sleep,age_0_3,sleep,anxious,routine_sleep
+I am worried my baby is not sleeping enough during the day,age_0_3,sleep,worried,routine_sleep
+My baby feeds very frequently and I feel exhausted,age_0_3,feeding,tired,routine_feeding
+Baby spits out milk sometimes and I am unsure if this is normal,age_0_3,feeding,worried,routine_feeding
+I feel anxious because my newborn is fussy during every feed,age_0_3,feeding,anxious,routine_feeding
+My baby cries even after feeding and I don’t know why,age_0_3,crying,tired,routine_general
+Baby wakes up suddenly at night and seems unsettled,age_0_3,sleep,worried,routine_sleep
+I am stressed because baby’s routine changes every day,age_0_3,routine,anxious,routine_general
+My baby cries for no apparent reason and I feel helpless,age_0_3,crying,anxious,routine_general
+Newborn falls asleep in my arms but wakes immediately when I put down,age_0_3,sleep,sleep,routine_sleep
+I feel confused as baby feeds often but seems unsatisfied,age_0_3,feeding,worried,routine_feeding
+Baby is very alert during the night and sleeps very little,age_0_3,sleep,tired,routine_sleep
+I am worried because baby seems unsettled after every feed,age_0_3,feeding,anxious,routine_feeding
+My baby cries a lot during the day and I feel stressed managing this,age_0_3,crying,tired,routine_general
+My 10 month old still wakes for night feeds even though he eats solids all day,age_7_12,sleep,tired,routine_sleep
+I hear others say babies sleep through night early but my 10 month old still wakes up multiple times,age_7_12,sleep,worried,routine_sleep
+My 8 month old sleeps long but always wants a feeding before nap,age_7_12,sleep,calm,routine_sleep
+We started solids at 6 months and baby still will not sleep through the night,age_7_12,sleep,anxious,routine_sleep
+"My 8 month baby hardly naps during day, naps 30 minutes max",age_7_12,sleep,worried,routine_sleep
+My 6 month old seems to need feed every 2-3 hours at night even with solids,age_4_6,sleep,tired,routine_sleep
+I am stressed because my 6 month baby does not seem to follow any solid schedule,age_4_6,routine,anxious,routine_general
+My baby at 6 months eats solids then wants milk right after,age_4_6,feeding,worried,routine_feeding
+My 6 month old likes some foods but rejects others completely,age_4_6,feeding,anxious,routine_feeding
+We are trying to balance sleep and feeding but my 6 month old’s awake windows keep changing,age_4_6,routine,tired,routine_general
+My newborn sleeps long during day but wakes many times at night for feed,age_0_3,sleep,tired,routine_sleep
+"My 3 month baby’s sleep pattern changes every day, waking every few hours",age_0_3,sleep,anxious,routine_sleep
+I worry that my newborn does not have a proper day routine yet,age_0_3,routine,worried,routine_general
+My baby at 2 months feeds often and then refuses sleep,age_0_3,feeding,tired,routine_feeding
+Night feed routines are exhausting and baby seems unsettled after feeds,age_0_3,sleep,tired,routine_sleep
+My 3 month old wakes every 3 hours no matter what we do,age_0_3,sleep,anxious,routine_sleep
+I am overwhelmed by the lack of routine with my newborn’s sleep and feeding,age_0_3,feeding,anxious,routine_general
+My baby wakes even after a long feed and stays awake for a while,age_0_3,sleep,worried,routine_sleep
+Our 3 month baby’s schedule is unpredictable and it’s stressful,age_0_3,routine,tired,routine_general
+My baby seems to need a feed to fall asleep even when not hungry,age_0_3,feeding,anxious,routine_feeding
+I feel tired because I fall asleep during night feeds and then baby wakes again,age_0_3,sleep,tired,routine_sleep
+My 9 month old sleeps but needs a milk feed before every nap,age_7_12,sleep,tired,routine_sleep
+My 11 month old refuses bottle sometimes and wants solids only,age_7_12,feeding,worried,routine_feeding
+I feel like my 10 month baby’s feeding routine changed after starting solids,age_7_12,feeding,anxious,routine_sleep
+My baby is getting nap transitions and that messes up the sleep schedule,age_7_12,routine,worried,routine_general
+My 7 month old eats well at daycare but refuses breakfast at home,age_7_12,feeding,anxious,routine_feeding
+My baby wakes up twice at night for feeding even though day naps are long,age_7_12,sleep,tired,routine_sleep
+I am not sure if my baby is ready to drop night feeds yet at 8 months,age_7_12,routine,worried,routine_general
+Baby wakes at random times despite a solid daytime routine,age_7_12,sleep,anxious,routine_sleep
+My 5 month old still wants milk to fall asleep and it’s exhausting,age_4_6,sleep,tired,routine_sleep
+My 12 month old refuses breakfast but eats lunch and dinner,age_7_12,feeding,worried,routine_feeding
+Baby seems fussy before naps and cries a lot,age_7_12,sleep,anxious,routine_sleep
+My 11 month baby eats only one type of food daily,age_7_12,feeding,anxious,routine_feeding
+I feel stressed as my baby wakes up too early in the morning,age_7_12,sleep,tired,routine_sleep
+My toddler refuses to sit during mealtime and I am frustrated,age_13_24,routine,tired,routine_general
+My toddler eats only snacks and refuses full meals,age_13_24,feeding,anxious,routine_feeding
+I am worried because my 18 month old skips dinner regularly,age_13_24,feeding,worried,routine_feeding
+My child cries during lunch and I don’t know how to handle it,age_13_24,crying,anxious,routine_general
+My toddler refuses to try new foods,age_13_24,feeding,worried,routine_feeding
+My toddler wants milk constantly and ignores meals,age_13_24,feeding,anxious,routine_feeding
+My baby at 2 months sleeps only 20–30 minutes at a time,age_0_3,sleep,tired,routine_sleep
+I am exhausted because newborn wakes up every 90 minutes,age_0_3,sleep,tired,routine_sleep
+My 1 month baby seems restless after feeds,age_0_3,feeding,worried,routine_feeding
+Baby cries for hours without clear reason,age_0_3,crying,anxious,routine_general
+I feel stressed trying to keep a feeding and sleep schedule for my newborn,age_0_3,feeding,tired,routine_general
+My 3 month baby sometimes refuses milk and cries,age_0_3,feeding,anxious,routine_feeding
+My 2 month baby wakes up screaming at night,age_0_3,sleep,worried,routine_sleep
+I am anxious because my newborn refuses to sleep in the crib,age_0_3,sleep,anxious,routine_sleep
+My 6 month baby sometimes refuses puree and prefers milk only,age_4_6,feeding,worried,routine_feeding
+We started solids at 6 months but baby gags often,age_4_6,feeding,anxious,routine_feeding
+My 6 month old sleeps well but refuses nap after solids,age_4_6,sleep,tired,routine_sleep
+I am stressed because baby wants milk to sleep every night,age_4_6,sleep,tired,routine_sleep
+My 5 month old seems more interested in play than feeding,age_4_6,feeding,anxious,routine_feeding
+I am unsure how to set a proper daily routine for my newborn,age_0_3,routine,anxious,routine_general
+My 2 month baby’s schedule changes every day and I feel stressed,age_0_3,routine,tired,routine_general
+I want to create a sleep and feeding routine but baby refuses,age_0_3,routine,worried,routine_general
+Baby’s daily routine is unpredictable and I don’t know how to manage,age_0_3,routine,anxious,routine_general
+I am struggling to maintain a consistent feeding routine,age_0_3,routine,tired,routine_general
+Baby wakes at random times and I can’t plan daily routine,age_0_3,routine,tired,routine_general
+I am exhausted trying to follow a strict routine for my newborn,age_0_3,routine,tired,routine_general
+My baby’s daily schedule keeps changing and I feel stressed,age_0_3,routine,anxious,routine_general
+I want a proper nap and feed routine but baby refuses,age_0_3,routine,worried,routine_general
+I feel helpless because newborn routine is chaotic,age_0_3,routine,anxious,routine_general
+My 6 month baby’s routine changes every day and I feel stressed,age_4_6,routine,anxious,routine_general
+I am unsure how to transition to solids and maintain routine,age_4_6,routine,worried,routine_general
+Baby refuses naps after feeding and routine gets disturbed,age_4_6,routine,tired,routine_general
+I am struggling to set a sleep and feeding schedule,age_4_6,routine,anxious,routine_general
+My 8 month old’s nap and meal routine keeps changing,age_7_12,routine,anxious,routine_general
+I am stressed because baby wakes early and routine gets disrupted,age_7_12,routine,worried,routine_general
+My toddler refuses routine changes and I feel exhausted,age_13_24,routine,tired,routine_general
+I am unsure how to maintain consistent daily routine for toddler,age_13_24,routine,anxious,routine_general
+Routine is difficult to manage because toddler skips meals and naps,age_13_24,routine,worried,routine_general
+My toddler’s routine gets disrupted by frequent waking and picky eating,age_13_24,routine,anxious,routine_general
+My baby cries for no reason during the night and I feel helpless,age_0_3,crying,anxious,routine_general
+Baby wakes up crying multiple times every night,age_0_3,crying,tired,routine_general
+I am stressed because my newborn cries a lot during feeds,age_0_3,crying,anxious,routine_general
+My 2 month old cries after every nap,age_0_3,crying,worried,routine_general
+Baby cries suddenly during day and I don’t know why,age_0_3,crying,anxious,routine_general
+My 3 month old cries when put down in crib,age_0_3,crying,tired,routine_general
+Baby cries a lot in the evening and refuses to sleep,age_0_3,crying,anxious,routine_general
+My newborn keeps crying for long stretches and I feel exhausted,age_0_3,crying,tired,routine_general
+Baby cries whenever I try to change clothes,age_0_3,crying,worried,routine_general
+My 1 month baby cries after every feeding and I feel stressed,age_0_3,crying,anxious,routine_general
+My 7 month old cries during naps and refuses to settle,age_7_12,crying,tired,routine_general
+Baby cries during meal times and refuses to eat,age_7_12,crying,anxious,routine_general
+My 8 month baby cries when routine is changed,age_7_12,crying,worried,routine_general
+Baby cries a lot in the afternoon even after sleeping,age_7_12,crying,tired,routine_general
+My 10 month old cries whenever put in crib,age_7_12,crying,anxious,routine_general
+Baby cries at random times and I can’t figure out why,age_7_12,crying,worried,routine_general
+My 14 month toddler cries whenever meals are late,age_13_24,crying,anxious,routine_general
+My toddler cries during bedtime and refuses to sleep,age_13_24,crying,tired,routine_general
+Baby cries when changing diapers or clothes,age_13_24,crying,worried,routine_general
+My toddler cries constantly during daily routine changes,age_13_24,crying,anxious,routine_general
